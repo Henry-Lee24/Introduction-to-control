@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE params SYSTEM "params.dtd">
+
+
+<params name="(null)">
+  <section name="parking param">
+    <attnum name="parking lot num" val="4"/>
+    <attnum name="maximum parking lot" val="24"/>
+    <attstr name="parking direction" val="back in ( Vertical )"/>
+  </section>
+
+</params>

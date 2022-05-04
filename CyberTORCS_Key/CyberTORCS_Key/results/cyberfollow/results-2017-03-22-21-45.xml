@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE params SYSTEM "D:/yuanwei/cyberc3/TA/torcs-1.3.2/runtime/config/params.dtd">
+<?xml-stylesheet type="text/xsl" href="file:///D:/yuanwei/cyberc3/TA/torcs-1.3.2/runtime/config/style.xsl"?>
+
+<params name="Results">
+  <section name="Header">
+    <attnum name="date" val="1.49019e+009"/>
+  </section>
+
+  <section name="Current">
+    <attnum name="current track" val="1"/>
+    <attnum name="current race" val="1"/>
+    <attnum name="current driver" val="1"/>
+  </section>
+
+  <section name="Michigan Speedway">
+    <section name="Drivers">
+      <section name="1">
+        <attstr name="dll name" val="cyberfollow"/>
+        <attnum name="index" val="1"/>
+      </section>
+
+      <section name="2">
+        <attstr name="dll name" val="cyberfollow"/>
+        <attnum name="index" val="0"/>
+      </section>
+
+    </section>
+
+    <section name="Results">
+      <section name="CyberFollow">
+        <attnum name="laps" val="1"/>
+        <section name="Rank">
+          <section name="1">
+            <attstr name="name" val="CyberLeader"/>
+            <attstr name="car" val="car1-stock1"/>
+            <attnum name="index" val="0"/>
+            <attnum name="laps" val="1"/>
+            <attnum name="time" val="81.1"/>
+            <attnum name="best lap time" val="81.1"/>
+            <attnum name="top speed" val="55.6056"/>
+            <attnum name="dammages" val="0"/>
+            <attnum name="pits stops" val="0"/>
+            <attstr name="module" val="cyberfollow"/>
+            <attnum name="idx" val="1"/>
+            <attnum name="points" val="0"/>
+          </section>
+
+          <section name="2">
+            <attstr name="name" val="CyberFollower"/>
+            <attstr name="car" val="car1-stock1"/>
+            <attnum name="index" val="1"/>
+            <attnum name="laps" val="1"/>
+            <attnum name="time" val="81.632"/>
+            <attnum name="best lap time" val="81.632"/>
+            <attnum name="top speed" val="55.9617"/>
+            <attnum name="dammages" val="3"/>
+            <attnum name="pits stops" val="0"/>
+            <attstr name="module" val="cyberfollow"/>
+            <attnum name="idx" val="0"/>
+            <attnum name="points" val="0"/>
+          </section>
+
+        </section>
+
+      </section>
+
+    </section>
+
+  </section>
+
+  <section name="Standings">
+    <section name="1">
+      <attstr name="name" val="CyberLeader"/>
+      <attstr name="module" val="cyberfollow"/>
+      <attnum name="idx" val="1"/>
+      <attnum name="points" val="0"/>
+    </section>
+
+    <section name="2">
+      <attstr name="name" val="CyberFollower"/>
+      <attstr name="module" val="cyberfollow"/>
+      <attnum name="idx" val="0"/>
+      <attnum name="points" val="0"/>
+    </section>
+
+  </section>
+
+</params>

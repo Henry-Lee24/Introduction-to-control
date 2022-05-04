@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE params SYSTEM "E:/cyberc3/TA/2020春季学期/软件/torcs-1.3.2_2018spring/runtime/config/params.dtd">
+<?xml-stylesheet type="text/xsl" href="file:///E:/cyberc3/TA/2020春季学期/软件/torcs-1.3.2_2018spring/runtime/config/style.xsl"?>
+
+<params name="Results">
+  <section name="Header">
+    <attnum name="date" val="1.58903e+009"/>
+  </section>
+
+  <section name="Current">
+    <attnum name="current track" val="1"/>
+    <attnum name="current race" val="1"/>
+    <attnum name="current driver" val="1"/>
+  </section>
+
+  <section name="CG track 3">
+    <section name="Drivers">
+      <section name="1">
+        <attstr name="dll name" val="cyberparking"/>
+        <attnum name="index" val="0"/>
+      </section>
+
+      <section name="2">
+        <attstr name="dll name" val="cyberparking"/>
+        <attnum name="index" val="1"/>
+      </section>
+
+      <section name="3">
+        <attstr name="dll name" val="cyberparking"/>
+        <attnum name="index" val="2"/>
+      </section>
+
+    </section>
+
+    <section name="Results">
+      <section name="CyberParking">
+        <attnum name="laps" val="0"/>
+        <section name="Rank">
+          <section name="1">
+            <attstr name="name" val="CyberParking"/>
+            <attstr name="car" val="car1-stock1"/>
+            <attnum name="index" val="0"/>
+            <attnum name="laps" val="0"/>
+            <attnum name="time" val="0"/>
+            <attnum name="best lap time" val="0"/>
+            <attnum name="top speed" val="21.1246"/>
+            <attnum name="dammages" val="194"/>
+            <attnum name="pits stops" val="0"/>
+            <attstr name="module" val="cyberparking"/>
+            <attnum name="idx" val="0"/>
+            <attnum name="points" val="0"/>
+          </section>
+
+          <section name="2">
+            <attstr name="name" val="CyberParking1"/>
+            <attstr name="car" val="Peugeot 406"/>
+            <attnum name="index" val="1"/>
+            <attnum name="laps" val="-1"/>
+            <attnum name="time" val="0"/>
+            <attnum name="best lap time" val="0"/>
+            <attnum name="top speed" val="20.0471"/>
+            <attnum name="dammages" val="43"/>
+            <attnum name="pits stops" val="0"/>
+            <attstr name="module" val="cyberparking"/>
+            <attnum name="idx" val="1"/>
+            <attnum name="points" val="0"/>
+          </section>
+
+          <section name="3">
+            <attstr name="name" val="CyberParking2"/>
+            <attstr name="car" val="Peugeot 406"/>
+            <attnum name="index" val="2"/>
+            <attnum name="laps" val="-1"/>
+            <attnum name="time" val="0"/>
+            <attnum name="best lap time" val="0"/>
+            <attnum name="top speed" val="20.0631"/>
+            <attnum name="dammages" val="173"/>
+            <attnum name="pits stops" val="0"/>
+            <attstr name="module" val="cyberparking"/>
+            <attnum name="idx" val="2"/>
+            <attnum name="points" val="0"/>
+          </section>
+
+        </section>
+
+      </section>
+
+    </section>
+
+  </section>
+
+  <section name="Standings">
+    <section name="1">
+      <attstr name="name" val="CyberParking"/>
+      <attstr name="module" val="cyberparking"/>
+      <attnum name="idx" val="0"/>
+      <attnum name="points" val="0"/>
+    </section>
+
+    <section name="2">
+      <attstr name="name" val="CyberParking1"/>
+      <attstr name="module" val="cyberparking"/>
+      <attnum name="idx" val="1"/>
+      <attnum name="points" val="0"/>
+    </section>
+
+    <section name="3">
+      <attstr name="name" val="CyberParking2"/>
+      <attstr name="module" val="cyberparking"/>
+      <attnum name="idx" val="2"/>
+      <attnum name="points" val="0"/>
+    </section>
+
+  </section>
+
+</params>

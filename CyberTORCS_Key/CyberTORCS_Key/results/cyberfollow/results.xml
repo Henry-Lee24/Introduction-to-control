@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE params SYSTEM "params.dtd">
+
+
+<params name="(null)">
+  <section name="result">
+    <attnum name="cyberfollow/failed" val="-2"/>
+    <attnum name="cyberfollow/average_distance" val="13.8116"/>
+  </section>
+
+</params>

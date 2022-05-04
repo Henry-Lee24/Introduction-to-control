@@ -1,0 +1,19 @@
+﻿  driver_cruise.cpp
+D:\introduction_to_control\driver_cruise\driver_cruise\driver_cuise2\driver_cruise\driver_cruise.cpp(161,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\introduction_to_control\driver_cruise\driver_cruise\driver_cuise2\driver_cruise\driver_cruise.cpp(162,32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\introduction_to_control\driver_cruise\driver_cruise\driver_cuise2\driver_cruise\driver_cruise.cpp(198,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\introduction_to_control\driver_cruise\driver_cruise\driver_cuise2\driver_cruise\driver_cruise.cpp(203,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\introduction_to_control\driver_cruise\driver_cruise\driver_cuise2\driver_cruise\driver_cruise.cpp(208,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\introduction_to_control\driver_cruise\driver_cruise\driver_cuise2\driver_cruise\driver_cruise.cpp(215,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\introduction_to_control\driver_cruise\driver_cruise\driver_cuise2\driver_cruise\driver_cruise.cpp(220,21): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_cruise\driver_cruise\driver_cuise2\driver_cruise\driver_cruise.cpp(237,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\introduction_to_control\driver_cruise\driver_cruise\driver_cuise2\driver_cruise\driver_cruise.cpp(242,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\introduction_to_control\driver_cruise\driver_cruise\driver_cuise2\driver_cruise\driver_cruise.cpp(247,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\introduction_to_control\driver_cruise\driver_cruise\driver_cuise2\driver_cruise\driver_cruise.cpp(254,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\introduction_to_control\driver_cruise\driver_cruise\driver_cuise2\driver_cruise\driver_cruise.cpp(259,21): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_cruise\driver_cruise\driver_cuise2\driver_cruise\driver_cruise.cpp(317,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\introduction_to_control\driver_cruise\driver_cruise\driver_cuise2\driver_cruise\driver_cruise.cpp(323,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\introduction_to_control\driver_cruise\driver_cruise\driver_cuise2\driver_cruise\driver_cruise.cpp(343,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\introduction_to_control\driver_cruise\driver_cruise\driver_cuise2\driver_cruise\driver_cruise.cpp(349,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\introduction_to_control\driver_cruise\driver_cruise\driver_cuise2\driver_cruise\driver_cruise.cpp(376,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  driver_cruise.vcxproj -> D:\introduction_to_control\driver_cruise\driver_cruise\driver_cuise2\Debug\driver_cruise.dll

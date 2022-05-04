@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE params SYSTEM "params.dtd">
+
+
+<params name="(null)">
+  <section name="result">
+    <attnum name="cybercruise/iFailedResult" val="0"/>
+    <attnum name="cybercruise/fCarLength" val="4.9"/>
+    <attnum name="cybercruise/fCarWidth" val="1.92"/>
+    <attnum name="cybercruise/fError" val="15940.5"/>
+    <attnum name="cybercruise/fSysTime" val="4.45"/>
+  </section>
+
+</params>

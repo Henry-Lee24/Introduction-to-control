@@ -1,0 +1,29 @@
+﻿  driver_parking.cpp
+D:\introduction_to_control\driver_parking\driver_parking\driver_parking\driver_parking.cpp(161,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\introduction_to_control\driver_parking\driver_parking\driver_parking\driver_parking.cpp(163,32): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\introduction_to_control\driver_parking\driver_parking\driver_parking\driver_parking.cpp(186,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\introduction_to_control\driver_parking\driver_parking\driver_parking\driver_parking.cpp(197,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\introduction_to_control\driver_parking\driver_parking\driver_parking\driver_parking.cpp(205,32): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_parking\driver_parking\driver_parking\driver_parking.cpp(208,19): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_parking\driver_parking\driver_parking\driver_parking.cpp(210,42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\introduction_to_control\driver_parking\driver_parking\driver_parking\driver_parking.cpp(220,16): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_parking\driver_parking\driver_parking\driver_parking.cpp(221,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\introduction_to_control\driver_parking\driver_parking\driver_parking\driver_parking.cpp(225,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\introduction_to_control\driver_parking\driver_parking\driver_parking\driver_parking.cpp(235,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\introduction_to_control\driver_parking\driver_parking\driver_parking\driver_parking.cpp(238,34): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_parking\driver_parking\driver_parking\driver_parking.cpp(250,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\introduction_to_control\driver_parking\driver_parking\driver_parking\driver_parking.cpp(261,18): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_parking\driver_parking\driver_parking\driver_parking.cpp(270,20): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_parking\driver_parking\driver_parking\driver_parking.cpp(274,18): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_parking\driver_parking\driver_parking\driver_parking.cpp(283,20): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_parking\driver_parking\driver_parking\driver_parking.cpp(287,18): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_parking\driver_parking\driver_parking\driver_parking.cpp(296,20): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_parking\driver_parking\driver_parking\driver_parking.cpp(300,18): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_parking\driver_parking\driver_parking\driver_parking.cpp(308,18): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_parking\driver_parking\driver_parking\driver_parking.cpp(314,20): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_parking\driver_parking\driver_parking\driver_parking.cpp(336,32): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_parking\driver_parking\driver_parking\driver_parking.cpp(339,18): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_parking\driver_parking\driver_parking\driver_parking.cpp(348,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\introduction_to_control\driver_parking\driver_parking\driver_parking\driver_parking.cpp(350,16): warning C4305: “=”: 从“double”到“float”截断
+    正在创建库 D:\introduction_to_control\driver_parking\driver_parking\Release\driver_parking.lib 和对象 D:\introduction_to_control\driver_parking\driver_parking\Release\driver_parking.exp
+  driver_parking.vcxproj -> D:\introduction_to_control\driver_parking\driver_parking\Release\driver_parking.dll

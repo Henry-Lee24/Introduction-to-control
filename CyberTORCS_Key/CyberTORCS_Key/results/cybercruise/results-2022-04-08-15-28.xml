@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE params SYSTEM "D:/introduction_to_control/CyberTORCS_Key/CyberTORCS_Key/config/params.dtd">
+<?xml-stylesheet type="text/xsl" href="file:///D:/introduction_to_control/CyberTORCS_Key/CyberTORCS_Key/config/style.xsl"?>
+
+<params name="Results">
+  <section name="Header">
+    <attnum name="date" val="1.6494e+009"/>
+  </section>
+
+  <section name="Current">
+    <attnum name="current track" val="1"/>
+    <attnum name="current race" val="1"/>
+    <attnum name="current driver" val="1"/>
+  </section>
+
+  <section name="Aalborg">
+    <section name="Drivers">
+      <section name="1">
+        <attstr name="dll name" val="cybercruise"/>
+        <attnum name="index" val="0"/>
+      </section>
+
+    </section>
+
+    <section name="Results">
+      <section name="CyberCruise">
+        <attnum name="laps" val="1"/>
+        <section name="Rank">
+          <section name="1">
+            <attstr name="name" val="CyberCruise"/>
+            <attstr name="car" val="car1-stock1"/>
+            <attnum name="index" val="0"/>
+            <attnum name="laps" val="1"/>
+            <attnum name="time" val="135.916"/>
+            <attnum name="best lap time" val="135.916"/>
+            <attnum name="top speed" val="32.153"/>
+            <attnum name="dammages" val="0"/>
+            <attnum name="pits stops" val="0"/>
+            <attstr name="module" val="cybercruise"/>
+            <attnum name="idx" val="0"/>
+            <attnum name="points" val="0"/>
+          </section>
+
+        </section>
+
+      </section>
+
+    </section>
+
+  </section>
+
+  <section name="Standings">
+    <section name="1">
+      <attstr name="name" val="CyberCruise"/>
+      <attstr name="module" val="cybercruise"/>
+      <attnum name="idx" val="0"/>
+      <attnum name="points" val="0"/>
+    </section>
+
+  </section>
+
+</params>

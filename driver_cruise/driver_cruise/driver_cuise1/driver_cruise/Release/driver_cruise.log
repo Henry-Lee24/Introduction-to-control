@@ -1,0 +1,21 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  driver_cruise.cpp
+C:\Users\HUAWEI\Desktop\控制导论\driver_cruise\driver_cruise\driver_cruise.cpp(161,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\HUAWEI\Desktop\控制导论\driver_cruise\driver_cruise\driver_cruise.cpp(162,32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\HUAWEI\Desktop\控制导论\driver_cruise\driver_cruise\driver_cruise.cpp(198,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\HUAWEI\Desktop\控制导论\driver_cruise\driver_cruise\driver_cruise.cpp(203,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\HUAWEI\Desktop\控制导论\driver_cruise\driver_cruise\driver_cruise.cpp(208,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\HUAWEI\Desktop\控制导论\driver_cruise\driver_cruise\driver_cruise.cpp(215,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\HUAWEI\Desktop\控制导论\driver_cruise\driver_cruise\driver_cruise.cpp(220,21): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\HUAWEI\Desktop\控制导论\driver_cruise\driver_cruise\driver_cruise.cpp(237,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\HUAWEI\Desktop\控制导论\driver_cruise\driver_cruise\driver_cruise.cpp(242,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\HUAWEI\Desktop\控制导论\driver_cruise\driver_cruise\driver_cruise.cpp(247,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\HUAWEI\Desktop\控制导论\driver_cruise\driver_cruise\driver_cruise.cpp(254,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\HUAWEI\Desktop\控制导论\driver_cruise\driver_cruise\driver_cruise.cpp(259,21): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\HUAWEI\Desktop\控制导论\driver_cruise\driver_cruise\driver_cruise.cpp(317,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\HUAWEI\Desktop\控制导论\driver_cruise\driver_cruise\driver_cruise.cpp(323,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\HUAWEI\Desktop\控制导论\driver_cruise\driver_cruise\driver_cruise.cpp(343,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\HUAWEI\Desktop\控制导论\driver_cruise\driver_cruise\driver_cruise.cpp(349,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\HUAWEI\Desktop\控制导论\driver_cruise\driver_cruise\driver_cruise.cpp(374,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+    正在创建库 ..\..\CyberTORCS_Key\cybercruise\driver_cruise.lib 和对象 ..\..\CyberTORCS_Key\cybercruise\driver_cruise.exp
+  driver_cruise.vcxproj -> C:\Users\HUAWEI\Desktop\控制导论\CyberTORCS_Key\cybercruise\driver_cruise.dll

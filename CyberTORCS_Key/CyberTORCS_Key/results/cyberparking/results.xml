@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE params SYSTEM "params.dtd">
+
+
+<params name="(null)">
+  <section name="result">
+    <attnum name="cyberparking/failed" val="0"/>
+    <attnum name="cyberparking/time" val="7.61"/>
+    <attnum name="cyberparking/distance" val="0.0712635"/>
+    <attnum name="cyberparking/Angle" val="0"/>
+    <attnum name="cyberparking/carlength" val="4.9"/>
+    <attnum name="cyberparking/iFailedResult" val="0"/>
+    <attnum name="cyberparking/fCarLength" val="0"/>
+    <attnum name="cyberparking/fCarWidth" val="0"/>
+    <attnum name="cyberparking/fError" val="116163"/>
+  </section>
+
+</params>

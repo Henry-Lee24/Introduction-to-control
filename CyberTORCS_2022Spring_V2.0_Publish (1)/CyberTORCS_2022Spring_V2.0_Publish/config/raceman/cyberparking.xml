@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE params SYSTEM "params.dtd">
+
+
+<params name="CyberParking">
+  <section name="Header">
+    <attstr name="name" val="CyberParking"/>
+    <attstr name="description" val="Parking Experiment with CyberTORCS"/>
+    <attnum name="priority" val="300"/>
+    <attstr name="menu image" val="data/img/splash-qr.png"/>
+  </section>
+
+  <section name="Tracks">
+    <attnum name="maximum number" val="1"/>
+    <section name="1">
+      <attstr name="name" val="g-track-3"/>
+      <attstr name="category" val="road"/>
+    </section>
+
+  </section>
+
+  <section name="Races">
+    <section name="1">
+      <attstr name="name" val="CyberParking"/>
+    </section>
+
+  </section>
+
+  <section name="CyberParking">
+    <attnum name="distance" unit="km" val="0"/>
+    <attstr name="type" val="race"/>
+    <attstr name="starting order" val="drivers list"/>
+    <attstr name="restart" val="yes"/>
+    <attnum name="laps" val="1"/>
+    <section name="Starting Grid">
+      <attnum name="rows" val="1"/>
+      <attnum name="distance to start" val="25"/>
+      <attnum name="distance between columns" val="20"/>
+      <attnum name="offset within a column" val="10"/>
+      <attnum name="initial speed" val="0"/>
+      <attnum name="initial height" val="0.2"/>
+    </section>
+
+  </section>
+
+  <section name="Drivers">
+    <attnum name="maximum number" val="40"/>
+    <attstr name="focused module" val="cyberparking"/>
+    <attnum name="focused idx" val="0"/>
+    <section name="1">
+      <attnum name="idx" val="0"/>
+      <attstr name="module" val="cyberparking"/>
+    </section>
+
+    <section name="2">
+      <attnum name="idx" val="1"/>
+      <attstr name="module" val="cyberparking"/>
+    </section>
+
+    <section name="3">
+      <attnum name="idx" val="2"/>
+      <attstr name="module" val="cyberparking"/>
+    </section>
+
+  </section>
+
+  <section name="Configuration">
+    <attnum name="current configuration" val="2"/>
+    <section name="1">
+      <attstr name="type" val="parking lot select"/>
+    </section>
+
+  </section>
+
+  <section name="Drivers Start List">
+    <section name="1">
+      <attstr name="module" val="cyberparking"/>
+      <attnum name="idx" val="0"/>
+    </section>
+
+    <section name="2">
+      <attstr name="module" val="cyberparking"/>
+      <attnum name="idx" val="1"/>
+    </section>
+
+    <section name="3">
+      <attstr name="module" val="cyberparking"/>
+      <attnum name="idx" val="2"/>
+    </section>
+
+  </section>
+
+</params>

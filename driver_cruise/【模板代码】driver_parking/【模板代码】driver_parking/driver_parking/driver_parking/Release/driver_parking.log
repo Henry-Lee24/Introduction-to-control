@@ -1,0 +1,30 @@
+﻿  driver_parking.cpp
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(118,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(119,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(126,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(136,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(142,17): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(151,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(154,34): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(157,17): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(166,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(171,17): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(171,34): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(174,20): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(178,17): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(178,34): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(181,20): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(188,18): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(188,36): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(190,18): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(190,36): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(201,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(204,18): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(204,36): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(211,19): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(223,32): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(226,17): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(230,19): warning C4305: “=”: 从“double”到“float”截断
+D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\driver_parking\driver_parking.cpp(239,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+    正在创建库 D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\Release\driver_parking.lib 和对象 D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\Release\driver_parking.exp
+  driver_parking.vcxproj -> D:\introduction_to_control\driver_cruise\【模板代码】driver_parking\【模板代码】driver_parking\driver_parking\Release\driver_parking.dll
