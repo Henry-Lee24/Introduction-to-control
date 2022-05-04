@@ -1,2 +1,2 @@
-# lhl_first
-just a test
+# SJTU-AU2301控制导论
+
